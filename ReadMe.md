@@ -6,3 +6,5 @@ just some *text*
 More text
 
 This is awesome
+
+--------
